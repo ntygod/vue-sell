@@ -1,4 +1,4 @@
-# my-project
+# Vue-sell
 
 > A Vue.js project
 
